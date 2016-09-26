@@ -18,3 +18,7 @@
 ## Documentation
 
 * NodeMCU Lua Module, http://nodemcu.readthedocs.io/en/master/en/modules/tmr/
+
+## Day 1 Workshop
+
+* Build OpenWrt for LinkIt 7688, https://github.com/jollen/7688-embedded-linux
