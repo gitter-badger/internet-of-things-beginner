@@ -19,6 +19,12 @@
 
 * NodeMCU Lua Module, http://nodemcu.readthedocs.io/en/master/en/modules/tmr/
 
+## Service Broker
+
+* http://stackoverflow.com/questions/36046744/nodejs-api-broker-service-pattern-to-cause-internal-api-redirection
+
+## 上機實作
+
 ## Day 1 Workshop
 
 * Build OpenWrt for LinkIt 7688, https://github.com/jollen/7688-embedded-linux
